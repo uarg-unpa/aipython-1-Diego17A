@@ -1,0 +1,7 @@
+print ("taller AIPython")
+print ()
+print ("hola","soy","diego")
+print ("prueba separador""*""prueba end","\n")
+print ("es viernes","y el cuerpo lo sabe",sep="+")
+print ("modernizacion","2024",end="*")
+print ("2024")
