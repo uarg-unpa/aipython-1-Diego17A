@@ -1,0 +1,7 @@
+print ("Las maquinas me sorprenden con mucha frecuencia")
+print ()
+print ("tercer clase de python")
+print ("23",23)
+print ("una compuradora puede ser llamada\"inteligente\" si logra engañar a una persona haciednole creer que es un humano")
+print ('una computadora puede ser llamada "inteligente" si logra engañar a una persona haciendole creer que es un humano')
+print ('Diego','Amuchastegui','33')
