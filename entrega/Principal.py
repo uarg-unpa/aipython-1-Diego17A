@@ -56,5 +56,15 @@ else:
     print('insufieciente')
     
 # match 
-
-            
+#find  str.find(<caracter>) indice desde donde comienza, -1
+    
+frase=input("ingrese una frase") 
+caracter=input("ingrese un caracter")
+#buscar la primera aparicion del caracter
+posicion=frase.find(caracter)
+if posicion !=-1:
+    print(f"el caracter{caracter} se encuentra en la posicion {posicion+1}")
+    subcadena=frase{posicion:)
+    print(f"subcadena a partir de la posision {posicion+1}: {subcadena}")
+else:
+    print(f"el caracter {caracter} no se encuentra en la frase")
