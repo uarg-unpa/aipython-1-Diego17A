@@ -33,26 +33,29 @@ print (3//2)
 x= 2
 print (x**2 + 6*x+9)
 #ejercicio 3
-nombre= Diego
-apellido= amuchastegui
+nombre= 'diego'
+apellido= 'amuchastegui'
 edad= 33
 altura= 1.77
 numerodevuelo= 894
 tempambiente= 25
 salariomensual= 1000000
-juegoterminado= finalizado
-par= true
+juegoterminado= 'finalizado'
+par= 'true'
 #ejercicio 4
-nombre= Diego #str
-apellido= amuchastegui #str
+nombre= 'Diego' #str
+apellido= 'amuchastegui' #str
 edad= 33 #int   
 altura= 1.77 #floot
 numerodevuelo= 894 #int
 tempambiente= 25 #int
 salariomensual= 1000000 #int
-juegoterminado= finalizado #str
-par= true #booleano
+juegoterminado= 'finalizado' #str
+par= 'true' #booleano
 #ejercicio 5
 #a
+nombre1=input('ingrese su nombre: ')
+apellido1=input('ingrese su apellido: ')
+edad1=int(input('ingrese su edad: '))
+print(nombre1, apellido1, edad1, 'sea creativo')
 
-print(input())
