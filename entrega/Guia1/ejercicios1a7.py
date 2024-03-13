@@ -59,3 +59,36 @@ apellido1=input('ingrese su apellido: ')
 edad1=int(input('ingrese su edad: '))
 print(nombre1, apellido1, edad1, 'sea creativo')
 
+#b
+nombre1=input('ingrese su nombre: ')
+apellido1=input('ingrese su apellido: ')
+edad1=int(input('ingrese su edad: '))
+datos= f'{nombre1}{apellido1},{edad1}'
+input(datos)
+#se llama una variable (datos) que tiene otras variables de datos en ella (edad nombre y apellido)
+
+#ejercicio 6
+
+num1= int(input('ingrese un numero: '))
+num2= int(input('ingrese otro numero: '))
+
+print (num1+num2)
+print (num1-num2)
+print (num1*num2)
+print (num1**num2)
+print (num1%num2)
+
+#ejercicio 7
+
+num1= int(input('ingrese un numero: '))
+num2= float(input('ingrese otro numero: '))
+
+print (num1+num2)
+print (num1-num2)
+print (num1*num2)
+print (num1**num2)
+print (num1%num2)
+
+
+
+
