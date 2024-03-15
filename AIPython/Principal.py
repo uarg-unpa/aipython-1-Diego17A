@@ -96,4 +96,23 @@ def suma(num3=0,num4=0):
 print (suma())
 print (suma(2,))
 print (suma(2,8))
+#LISTAS
 
+#creacion de lista
+nombre=[]
+#valores iniciales
+nombres=['franco','fernando','diego']
+#mostrar lista
+#print nombres
+#iterar sobre la lista usando indices
+for i in range(len{nombres}):
+    print{nombres[i]}
+#accedemos a los elementos
+    #accedemos a primer elemento
+
+primer_elemento=nombres[0] 
+print(f'el primer elemento es {primer_elemento}')
+
+
+#creacion de lista por metodo
+#
